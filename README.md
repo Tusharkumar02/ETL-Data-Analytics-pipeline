@@ -39,7 +39,7 @@ The objective of this project is to analyze sales data and generate insights rel
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](ETL-Data-Analytics-pipeline/images/dashboard_preview.png)
 
 ---
 
